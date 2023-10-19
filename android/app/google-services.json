@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "433435116109",
+    "project_id": "shopify-243fc",
+    "storage_bucket": "shopify-243fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433435116109:android:cfde15604f59c09574d204",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwqiNUV3bfUNuqFKRvvXZEI2cmzkZDzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433435116109:android:1af5d60d8a85cbcd74d204",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_operations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwqiNUV3bfUNuqFKRvvXZEI2cmzkZDzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433435116109:android:f326ae33758f28d074d204",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwqiNUV3bfUNuqFKRvvXZEI2cmzkZDzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
