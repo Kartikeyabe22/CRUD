@@ -61,7 +61,7 @@ class ReadDataOnce extends StatelessWidget {
         .get()
         .then((QuerySnapshot querySnapshot) {
       querySnapshot.docs.forEach((doc) {
-        print(doc['full_name']);
+     //   print(doc['full_name']);
       });
     });
 
